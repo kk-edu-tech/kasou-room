@@ -68,8 +68,3 @@
 - **ポートフォリオ**：[Notionページ](https://raspy-store-96c.notion.site/kk-edu-tech-24288083f526807ea506d0358fb1b94c?source=copy_link)  
 - **GitHub**：[kk-edu-tech](https://github.com/kk-edu-tech)
 
----
-
-## 📄 ライセンス
-
-このプロジェクトは [MIT ライセンス](LICENSE) のもとで公開されています。
