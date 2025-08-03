@@ -31,9 +31,8 @@
 
 ---
 
-## 🚀 デモ
-
-👉 [仮想待合室アプリを試す](https://kk-edu-tech.github.io/kasou-room/)  
+## 🚀 デモ（調整中）
+  
 👉 [Notion 解説ページを見る](https://raspy-store-96c.notion.site/24288083f5268078a675dd9345b47b4d?source=copy_link)
 
 ---
